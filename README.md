@@ -1,10 +1,10 @@
 # Data-Analyst 📊
 
 ## Linguagens de Programação:
-- **Python:** Uma linguagem de programação de alto nível conhecida por sua simplicidade e facilidade de uso. Ampla utilização em ciência de dados devido à sua vasta gama de bibliotecas especializadas.[Pasta Python](/Python)  
+- **Python:** Uma linguagem de programação de alto nível conhecida por sua simplicidade e facilidade de uso. Ampla utilização em ciência de dados devido à sua vasta gama de bibliotecas especializadas.[**Pasta Python**](/Python)  
 
-- **R:** Uma linguagem de programação e ambiente de software especialmente projetado para análise estatística e visualização de dados. Popular entre os estatísticos e cientistas de dados devido à sua forte comunidade e pacotes estatísticos robustos.
-- **SQL:** A linguagem padrão para bancos de dados relacionais. Usada para consultar, atualizar e gerenciar dados armazenados em sistemas de gerenciamento de bancos de dados relacionais.
+- **R:** Uma linguagem de programação e ambiente de software especialmente projetado para análise estatística e visualização de dados. Popular entre os estatísticos e cientistas de dados devido à sua forte comunidade e pacotes estatísticos robustos.[**Pasta R**](/R)  
+- **SQL:** A linguagem padrão para bancos de dados relacionais. Usada para consultar, atualizar e gerenciar dados armazenados em sistemas de gerenciamento de bancos de dados relacionais.[**Pasta SQL**](/SQL)  
 
 ## Bancos de Dados Relacionais:
 
