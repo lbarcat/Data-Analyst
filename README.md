@@ -12,7 +12,7 @@ Sistemas de gerenciamento de banco de dados relacionais amplamente utilizados, c
 
 - **MySQL** [**Pasta MySQL**](/Data-Analyst/MySQL/)
 - **PostgreSQL** [**Pasta PostgreSQL**](/Data-Analyst/PostgreSQL/)
-- **SQLite**[**Pasta SQLite**](/Data-Analyst/SQLite/)
+- **SQLite** [**Pasta SQLite**](/Data-Analyst/SQLite/)
 
 ## Bancos de Dados NoSQL:
 
