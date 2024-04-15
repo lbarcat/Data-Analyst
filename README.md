@@ -18,8 +18,8 @@ Sistemas de gerenciamento de banco de dados relacionais amplamente utilizados, c
 
 Bancos de dados NoSQL que permitem o armazenamento e recuperação de dados não estruturados ou semi-estruturados em grande escala. MongoDB é conhecido por sua flexibilidade e facilidade de uso, enquanto Cassandra se destaca em ambientes distribuídos e de alto desempenho.
 
-- **MongoDB**
-- **Cassandra**
+- **MongoDB** [**MongoDB**](/Data-Analyst/MongoDB/)
+- **Cassandra** [**Cassandra**](/Data-Analyst/Cassandra/)
 
 ## Ferramentas de Visualização:
 
