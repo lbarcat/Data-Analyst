@@ -25,43 +25,43 @@ Bancos de dados NoSQL que permitem o armazenamento e recuperação de dados não
 
  Ferramentas de visualização de dados líderes de mercado que permitem a criação de visualizações interativas e painéis de controle a partir de dados brutos. Power BI possui a linguagem DAX para cálculos e manipulação de dados, e a linguagem M para transformação de dados.
 
-- **Tableau**
-- **Power BI (DAX e M)**
+- **Tableau** [**Pasta Tableau**](/Data-Analyst/Tableau/)
+- **Power BI (DAX e M)** [**Pasta PowerBI**](/Data-Analyst/PowerBI/)
 
  Bibliotecas populares de visualização de dados em Python, utilizadas para criar gráficos estáticos e dinâmicos de alta qualidade. Matplotlib é altamente personalizável, enquanto Seaborn simplifica a criação de gráficos estatísticos atraentes.
 
-- **Matplotlib**
-- **Seaborn**
+- **Matplotlib** [**Pasta Matplotlib**](/Data-Analyst/Matplotlib/)
+- **Seaborn** [**Seaborn**](/Data-Analyst/Seaborn/)
 
 ## Frameworks de Machine Learning e Deep Learning:
 
 Frameworks e bibliotecas de aprendizado de máquina e deep learning em Python e R, utilizados para construir, treinar e implantar modelos preditivos em uma ampla variedade de domínios.
 
-- **Scikit-learn**
-- **TensorFlow**
-- **PyTorch**
-- **Caret**
-- **Tidymodels**
+- **Scikit-learn** [**Pasta Scikit Learn**](/Data-Analyst/ScikitLearn/)
+- **TensorFlow** [**Pasta TensorFlow**](/Data-Analyst/TensorFlow/)
+- **PyTorch** [**Pasta PyTorch**](/Data-Analyst/PyTorch/) 
+- **Caret** [**Pasta Caret**](/Data-Analyst/Caret/)
+- **Tidymodels** [**Pasta Tidymodels**](/Data-Analyst/Tidymodels/)
 
 ## Ferramentas e Tecnologias de Big Data:
 
 Tecnologias de Big Data projetadas para processar e analisar conjuntos de dados massivos de forma distribuída e paralela. Hadoop é um ecossistema que inclui o HDFS e o MapReduce, enquanto Spark oferece maior velocidade e facilidade de uso. Hive é uma camada de consulta que permite consultas SQL em dados armazenados no Hadoop.
 
-- **Hadoop**
-- **Spark**
-- **Hive**
+- **Hadoop** [**Pasta Hadoop**](/Data-Analyst/Hadoop/)
+- **Spark** [**Pasta Spark**](/Data-Analyst/Spark/)
+- **Hive** [**Pasta Hive**](/Data-Analyst/Hive/)
 
 ## Sistemas Operacionais:
 
 Um sistema operacional baseado em Linux amplamente utilizado em servidores e ambientes de desenvolvimento devido à sua estabilidade, segurança e vasta comunidade de usuários e desenvolvedores.
 
-- **Ubuntu**
+- **Ubuntu** [**Pasta Ubuntu**](/Data-Analyst/Ubuntu/)
 
 ## Versionamento e Controle de Código:
 
 Ferramentas para controle de versão de código-fonte, essenciais para colaboração e gerenciamento de projetos de desenvolvimento de software.
 
-- **Comandos Git**
+- **Comandos Git** [**Pasta Git**](/Data-Analyst/Comandos%20Git/)
 
 ## Estatística e Análise de Dados:
 
